@@ -2,3 +2,9 @@
 .odd {
     background-color: rgb(233, 134, 167);
 }
+
+#big {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(96, 219, 96);
+}
