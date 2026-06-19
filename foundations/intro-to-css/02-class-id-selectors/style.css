@@ -3,6 +3,10 @@
     background-color: rgb(233, 134, 167);
 }
 
+.fancy {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
 #big {
     font-weight: bold;
     font-size: 24px;
